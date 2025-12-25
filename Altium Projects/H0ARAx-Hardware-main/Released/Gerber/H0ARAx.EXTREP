@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: H0ARAx.GBR   11/25/2025  8:04:36 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Dimensions                              
+.GM9                Top Component Center                    
+.GM10               Bottom Component Center                 
+.GM11               Top Courtyard                           
+.GM12               Mechanical 12                           
+.GM13               Mechanical 13                           
+.GM14               Mechanical 14                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM18               Bottom Courtyard                        
+.GM19               Top 3D Body                             
+.GM22               Bottom 3D Body                          
+.GM32               Mechanical 32                           
+.GM34               Top Assembly                            
+.GM33               Mechanical 33                           
+.GM38               Bottom Assembly                         
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.1                  Dielectric 1                            
+.GML                Multi-Layer                             
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
